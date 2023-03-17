@@ -1,6 +1,6 @@
 ## 🚀 Lucas Bertolini
 
-Desenvolvedor Full-Stack na <a href="https://www.informsolucoes.com.br">Inform Soluções</a> e cofundador da Gober Soluções.\
+Desenvolvedor na <a href="https://www.nexum.com.br">Nexum</a>.\
 Tecnologias usadas em ambiente de trabalho: ![PHP](https://img.shields.io/badge/PHP-7.4+-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)
 ![Postgres](https://img.shields.io/badge/Postgres-12-blue)
