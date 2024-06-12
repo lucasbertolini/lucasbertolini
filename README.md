@@ -5,7 +5,7 @@ Tecnologias usadas em ambiente de trabalho: ![PHP](https://img.shields.io/badge/
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)
 ![Java](https://img.shields.io/badge/Java-8-blue)
 ![Postgres](https://img.shields.io/badge/Postgres-12-blue)
-![Java](https://img.shields.io/badge/Java-12-blue)
+![Java](https://img.shields.io/badge/Java-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-blue)<br/><br/>
 <a href="https://www.linkedin.com/in/lucas-bertolini/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
